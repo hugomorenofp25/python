@@ -18,5 +18,3 @@ print(my_bool)
 
 # Aquí estamos imprimiendo "Mi variable String 5 True
 print(my_variable, my_int, my_bool)
-
-#! MIN 1:00:15 DE VÍDEO
