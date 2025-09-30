@@ -16,5 +16,3 @@ print (type ("Hola")) # Devuelve el tipo del contenido en este caso --> Tipo 'st
 print (type (5)) # Devuelve el tipo del contenido en este caso --> 'int'
 print (type (1.5)) # Devuelve el tipo del contenido en este caso --> 'float'
 print (type (True)) # Devuelve el tipo del contenido en este caso --> 'bool'
-
-#! min 47:45
