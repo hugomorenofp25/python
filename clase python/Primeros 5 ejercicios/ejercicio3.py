@@ -19,3 +19,10 @@ Sortida:
 ...
 5 × 10 = 50
 '''
+
+numero = int(input("Dime un numero para saber su tabla de multiplicar: "))
+
+for gia in range(1, 11):
+    total = gia * numero
+    print(numero, " x " , gia, " = ", total)
+    
