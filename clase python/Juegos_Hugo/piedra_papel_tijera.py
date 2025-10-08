@@ -73,15 +73,21 @@ elif selecciona_juego == 2:
     else:
         print("Solo se puede asignar 'piedra', 'papel' o 'tijera")
 
-
 #! JUEGO NÚMERO 3
 elif selecciona_juego == 3:
     print("Juego en mantenimiento")
+
+#! JUEGO NÚMERO 4
 elif selecciona_juego == 4:
     print("Juego en mantenimiento")
+
+#! JUEGO NÚMERO 5
 elif selecciona_juego == 5:
     print("Juego en mantenimiento")
+
+#! JUEGO NÚMERO 6
 elif selecciona_juego == 6:
     print("Juego en mantenimiento")
+
 else:
     print("Error 404: Tienes que elejir un número de juego válido")
